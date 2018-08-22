@@ -1,0 +1,34 @@
+
+.btn-link{
+	border: 1px solid #D3D3D3 ;
+}
+
+.cost{
+	color:red;
+}
+
+.title{
+	font-weight: bold;
+}
+
+#time td{
+
+border: none;
+
+}
+
+#captionid{
+	text-align: center;
+}
+
+#buttontext{
+	font-size:11px;
+}
+
+#textbutton{
+	text-align: center;
+}
+
+#search{
+	padding-bottom: 10px;
+}
